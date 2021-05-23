@@ -11,9 +11,9 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>hello_world</string>
+	<string>trippin</string>
 <key>CFBundleDisplayName</key>
-<string>Stateless Hello World</string>
+<string>trippin</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

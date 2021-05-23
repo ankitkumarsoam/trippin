@@ -1,4 +1,4 @@
-package com.codegemz.hello_world
+package com.example.trippin
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
